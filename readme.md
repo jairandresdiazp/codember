@@ -19,4 +19,4 @@ My solutions to [codember](https://codember.dev) challenges made in JavaScript w
 
 ### Secrets
 
-- [View](/2023/challenge_01/readme.md)
+- [View](/2023/readme.md)
