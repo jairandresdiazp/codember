@@ -1,7 +1,5 @@
 <div align="center">
 
-![Codember](./assets/codember.webp)
-
 # 📗 [codember](https://codember.dev) 📗
 
 </div>
@@ -21,4 +19,4 @@ My solutions to [codember](https://codember.dev) challenges made in JavaScript w
 
 ### Secrets
 
-- [View](/2023/challenge_01/challenge.md)
+- [View](/2023/challenge_01/readme.md)
